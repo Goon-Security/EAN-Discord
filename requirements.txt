@@ -1,0 +1,4 @@
+imgkit
+requests
+discord.py
+beautifulsoup4
